@@ -1,0 +1,23 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+alt+pageup",
+        "command": "workbench.view.explorer"
+    },
+    {
+        "key": "ctrl+shift+e",
+        "command": "-workbench.view.explorer"
+    },
+    {
+        "key": "ctrl+alt+pagedown",
+        "command": "workbench.action.focusActiveEditorGroup"
+    },
+    {
+        "key": "alt+meta+left",
+        "command": "workbench.action.navigateLeft"
+    },
+    {
+        "key": "alt+meta+right",
+        "command": "workbench.action.navigateRight"
+    }
+]
